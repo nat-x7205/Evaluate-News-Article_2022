@@ -37,4 +37,4 @@ You can find the MeaningCloud API [here](https://www.meaningcloud.com/developer/
 The app is free for the personal use.
 
 ## Copyright
-Coded by Natalia Petrenko, 2021.
+Coded by Natalia Petrenko, 2022.
