@@ -6,6 +6,9 @@ This project is a part of the [Front End Web Developer](https://www.udacity.com/
 ![The Evaluate-News-Article-App screenshot](src/client/images/News-App-Screenshot.jpg?raw=true "The Evaluate-News-Article-App screenshot")<br /><br />
 The app allows users to run Sentiment Analysis (also known as opinion mining or emotion AI) on articles or blogs found on other websites. Sentiment Analysis is a sub-field of Natural Language Processing (NLP) that tries to identify and extract opinions within a given text across blogs, reviews, social media, forums, news etc.
 
+## Demo
+The [demo version](http://thequickwebsite.com:8082/) of the Evaluate News Article App project.
+
 ## References
 - Sentiment Analysis performed by [MeaningCloud.com](https://www.meaningcloud.com/).
 - [Open Sance](https://fonts.google.com/specimen/Open+Sans) has been used as this project font, and was sourced from [Goggle Fonts](https://fonts.google.com/).
